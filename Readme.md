@@ -1,4 +1,4 @@
-# Python + AWS Lambda Hands On
+# Python Hands On
 
 ## Python
 
@@ -80,4 +80,4 @@ jupyter notebook notebooks
 
 ### Aplicação Web
 
-Na pasta **troubleshooting-webapp**, existe um projeto Web utilizando fastapi com todo ecosistema de monitoração e telemetria.
+Na pasta [**troubleshooting-webapp**](https://github.com/ortisan/python-hands-on/tree/main/troubleshooting-webapp), existe um projeto Web utilizando fastapi com todo ecosistema de monitoração e telemetria.
